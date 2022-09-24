@@ -79,3 +79,17 @@ v0.5 Release (Final):
 * if you run xsscon on the win10 terminal you will get an untidy output
 * now it doesn't support DOM
 
+
+
+# How to use it 
+- Install required packages 
+-   pip3 install bs4
+- pip3 install requests
+- git clone 
+cd XSSCon/
+- chmod 777 xsscon.py requirements.txt
+- pip3 install -r requirements.txt 
+- python3 xsscon.py --help
+
+- python3 xsscon.py -u http://testphp.vulnweb.com
+
