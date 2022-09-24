@@ -85,8 +85,8 @@ v0.5 Release (Final):
 - Install required packages 
 -   pip3 install bs4
 - pip3 install requests
-- git clone 
-cd XSSCon/
+- git clone https://github.com/adopt-devsecure-io/xss-scan-tools.git
+- cd XSSCon/
 - chmod 777 xsscon.py requirements.txt
 - pip3 install -r requirements.txt 
 - python3 xsscon.py --help
